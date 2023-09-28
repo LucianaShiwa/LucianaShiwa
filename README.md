@@ -1,4 +1,4 @@
-###  <h2> Hello, I`m <span>Luci<span/> ! 👋 </h2>
+###  <h2> Hello, I`m Luci ! 👋 </h2>
 
   
 ```javascript
@@ -13,7 +13,20 @@ void  welcome()
 ## About me 🌱
 
 ```javascript
-  < Under Construction />
+
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <title> ✨ Hold your curiosity ✨ </title>
+    </head>
+
+    <script>
+        console.log("🚧 It`s under construction 🚧")
+    </script>
+
+</html>
+
 ```
 
 >
@@ -69,10 +82,8 @@ void  welcome()
 > '42Barcelona' piscine  (coming soon)
 
 <!--
-**LucianaShiwa/LucianaShiwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
  [`Hello`]
  <`Hello`/>
  :strawberry: Olá :strawberry: Hola :strawberry: こんにちは 
-- 🔭  🌱  👯  🤔  💬  📫 How to reach me: 😄  ⚡ Fun fact:
+ 🔭  🌱  👯  🤔  💬  📫 How to reach me: 😄 ✨ ⚡ Fun fact:
 -->
