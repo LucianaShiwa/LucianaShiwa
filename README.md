@@ -16,21 +16,20 @@ void  welcome()
 
 <!DOCTYPE html>
 <html lang="en">
+    <head><title> About </title></head>
 
-    <head>
-        <title> ✨ Hold your curiosity ✨ </title>
-    </head>
-
-    <script>
-        console.log("🚧 It`s under construction 🚧")
-    </script>
-
+    <body>
+        <h2> ✨ It`s never too late to start over. ✨ </h2>
+ 
+        <script>
+            console.log("🚧 Under construction 🚧")
+        </script>
+    </body>
 </html>
 
 ```
 
->
->
+
 <br>
 
 <h3> Human Languages 💬 </h3>
