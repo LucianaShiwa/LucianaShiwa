@@ -8,6 +8,12 @@ void  welcome()
 {
     printf("My name is Luciana, welcome to my git profile.\n");
 }
+
+int main()
+{
+    welcome();
+    return (0);
+}
 ```
 
 ## About me 🌱
