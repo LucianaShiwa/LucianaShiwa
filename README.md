@@ -50,9 +50,9 @@ int main()
 
 <h3> Programming Languages 👨‍💻 </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,js,html,css)](https://skillicons.dev)
 
-> Learning languages: C | HTML | CSS | Javascript
+> Learning languages: C | Javascript | HTML | CSS 
 
 <br>
 
@@ -80,11 +80,11 @@ int main()
 
 ## Projects ⚡
 
-> '42Barcelona' projects (coming soon)
+> #### '42Barcelona' PROJECTS:
 
-> '42Barcelona' reloaded (coming soon)
+   > :strawberry: [Creating a library " Libft.h " ;](https://github.com/LucianaShiwa/proj01_libft.git)
 
-> '42Barcelona' piscine  (coming soon)
+
 
 <!--
  [`Hello`]
