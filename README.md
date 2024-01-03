@@ -84,7 +84,7 @@ int main()
 
    > :strawberry: [Creating a library " Libft.h " ;](https://github.com/LucianaShiwa/proj01_libft.git)
 
-
+   > :strawberry: [Re-creating the " printf function " ;](https://github.com/LucianaShiwa/42barcelona_proj02_ft_printf)
 
 <!--
  [`Hello`]
