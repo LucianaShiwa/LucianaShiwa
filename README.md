@@ -48,6 +48,14 @@ int main()
 
 <br>
 
+<h3>  Data Analisys </h3>
+
+> Excel - Advanced
+
+> Power BI (Data Query, DAX) - basic
+
+<br>
+
 <h3> Programming Languages 👨‍💻 </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=c,js,html,css)](https://skillicons.dev)
